@@ -1,0 +1,23 @@
+*{
+    margin: 10px;
+}
+.box1{
+    box-sizing: content-box;
+    background-color: gray;
+    border-top: red 5px solid;
+    border-left: red 5px solid;
+    border-right: red 5px solid;
+    border-bottom: red 5px solid;
+    height: 400px;
+    width: 400px;
+}
+.box2{
+    box-sizing: border-box;
+    background-color: aqua;
+    border-top: green 5px solid;
+    border-left: green 5px solid;
+    border-right: green 5px solid;
+    border-bottom: green 5px solid;
+    height: 400px;
+    width: 400px;
+}

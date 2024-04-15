@@ -1,0 +1,40 @@
+.nome{
+    color: darkgoldenrod;
+}
+
+h2.nome{
+    color: greenyellow;
+}
+#nomasso{
+    background-color: khaki;
+    font-size: 26px;
+}
+
+nav a{
+    color: chocolate;
+    font-size: 9px;
+}
+
+#aula04{
+    background-color: cyan;
+    color: crimson;
+}
+#pou{
+    background-color: green;
+    color: orange;
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+article p{
+    background-color: blueviolet;
+    font-size: 20px;
+    color: gold;
+    font-weight: bold;
+}
+h1,h2{
+    font-size: 50px;
+    color: beige;
+}

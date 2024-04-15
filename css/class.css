@@ -1,0 +1,22 @@
+body{
+   
+    background-color: orange
+
+}
+h1{
+    text-align: center;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+     color: blue;
+     font-size: 20px;
+}
+     .fundoTexto{
+background-color: forestgreen;
+     }
+.comentario{
+    font-style: italic;
+    text-align: right;
+  
+}

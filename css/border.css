@@ -1,0 +1,16 @@
+body{
+    background-color: orange;
+}
+h1{
+    border-bottom: 5px solid blue;
+    border-top: 5px dotted green;
+    border-left: 5px double yellow;
+    border-right:5px dashed tomato ;
+    
+}
+p{
+    border-bottom: 5px solid aqua;
+    border-top: 5px dotted purple;
+    border-left: 5px double magenta;
+    border-right: 5px dashed gold;   
+}

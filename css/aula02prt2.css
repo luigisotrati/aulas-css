@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+h1{
+    line-height: 50%;
+    text-shadow: -4px -4px 4px rgb(8, 93, 184) ;
+}
+span{
+    font-weight: 500;
+    font-style: italic;
+}
+p{
+    
+    font-style: italic;
+    text-align: justify;
+}
+section{
+    text-align: center;
+}
