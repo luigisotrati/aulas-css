@@ -1,0 +1,15 @@
+input:focus{
+    background-color: blue;
+    color: gold;
+}
+a:link{
+    text-decoration: none;
+    color: green; 
+}
+a:active{
+    font-size: 15px;
+    color: blueviolet;
+}
+a:visited{
+    color: rgb(rgb(76, 0, 255), rgb(115, 128, 0), rgb(0, 225, 255));
+}

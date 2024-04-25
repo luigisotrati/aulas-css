@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+}
+:root{
+    --COR-PRIMARIA: #ff123f;
+    --COR-SECUNDARIA: blue;
+    --FONTE-TAMANHO: 1.5em;
+}
+body{
+    background-color: springgreen;
+}
+h1{
+    color: var(--COR-SECUNDARIA)
+}
+p{
+    color: var(--COR-PRIMARIA);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gold;
+}
+
+a{
+    
+    background-color: turquoise; 
+}
+nav{
+    text-align: center;
+   
+    font-family: cursive;
+}
+nav > a:hover {
+    background-color: blueviolet;
+
+}

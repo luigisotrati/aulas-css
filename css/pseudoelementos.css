@@ -1,0 +1,10 @@
+p::after{
+    content: '--clique aqui';
+}
+p::before{
+    content: '--não clique aqui';
+}
+p::first-letter{
+      font-size: 200%;
+      color: blue;
+}

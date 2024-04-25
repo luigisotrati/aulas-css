@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 95vh;
+    background-color: white;
+    font-size: 15px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(7, 1fr);
+    gap: 5px;
+    grid-template-areas: 
+    "header header  header header header header"
+    " aside aside main main  main main" 
+    " aside aside main main  main main" 
+    "room room  room  lol lol lol "
+    "back back back back back back"
+    "back back back back back back"
+    "back back back back back back"
+    
+    ;
+}
+
+.box1 {
+    grid-area: header;
+    background-color: blue;
+    
+}
+.box2 {
+    grid-area: main;
+    background-color:orange;
+
+   
+}
+.box3{
+    grid-area: aside;
+    background-color: blueviolet;
+    
+}
+.box4{
+    grid-area: room;
+    background-color: yellow;
+}
+.box5{
+    grid-area: lol;
+    background-color: burlywood;
+}
+.box6{
+    grid-area: back;
+    background-color: green;
+}
